@@ -1,2 +1,1 @@
-# yuhz
-funda
+This is my first repository.
